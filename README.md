@@ -8,4 +8,8 @@ Homebrew tap for plaonn tools
 brew tap plaonn/tap
 ```
 
-Formulae will be added as project releases become package-ready.
+## Formulae
+
+```bash
+brew install plaonn/tap/hotspot-proxy-toggle
+```
