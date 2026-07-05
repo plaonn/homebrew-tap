@@ -26,7 +26,7 @@ class HotspotProxyToggle < Formula
         ${EDITOR:-vi} ~/.config/hotspot-proxy-toggle.conf
 
       Start the event helper LaunchAgent:
-        brew services start hotspot-proxy-toggle
+        brew services start plaonn/tap/hotspot-proxy-toggle
 
       Run one reconciliation manually:
         hotspot-proxy-toggle run
