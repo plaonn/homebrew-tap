@@ -1,8 +1,8 @@
 class HotspotProxyToggle < Formula
   desc "Toggle macOS proxy settings when connected to matching phone hotspots"
   homepage "https://github.com/plaonn/mac-hotspot-proxy-toggle"
-  url "https://github.com/plaonn/mac-hotspot-proxy-toggle/archive/refs/tags/v1.5.0.tar.gz"
-  sha256 "3696dd6556c3f145b0457e55a3e2e3a5b1ad5326107ee4e28f72c11c73bac838"
+  url "https://github.com/plaonn/mac-hotspot-proxy-toggle/archive/refs/tags/v1.5.1.tar.gz"
+  sha256 "409da17b1dc10bfe66fe6b31f684b8abd458c532cd59aadee23862138ccb0d51"
   license "MIT"
 
   depends_on :macos
